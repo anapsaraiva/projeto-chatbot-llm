@@ -1,4 +1,4 @@
-Ferramentas necessárias
+Ferramentas necessárias:
 - Python 3.12 (ou compatível)
 - FastAPI (Framework web)
 - Uvicorn (Servidor ASGI)
