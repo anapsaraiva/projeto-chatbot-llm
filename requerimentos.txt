@@ -1,0 +1,7 @@
+echo "fastapi
+uvicorn
+chromadb
+pydriller
+sentence-transformers
+ollama" > requerimentos.txt
+
